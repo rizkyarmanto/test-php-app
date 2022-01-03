@@ -1,0 +1,7 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-22 08:57:15 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/smsinaja/public_html/ikm/application/controllers/api/Kuisioner.php:46) /home/smsinaja/public_html/ikm/system/core/Common.php 570
+ERROR - 2020-09-22 08:57:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/smsinaja/public_html/ikm/application/controllers/api/Kuisioner.php:46) /home/smsinaja/public_html/ikm/system/core/Common.php 570
+ERROR - 2020-09-22 08:57:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/smsinaja/public_html/ikm/application/controllers/api/Kuisioner.php:46) /home/smsinaja/public_html/ikm/system/core/Common.php 570
+ERROR - 2020-09-22 09:00:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/smsinaja/public_html/ikm/application/controllers/api/Kuisioner.php:46) /home/smsinaja/public_html/ikm/system/core/Common.php 570
+ERROR - 2020-09-22 09:03:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/smsinaja/public_html/ikm/application/controllers/api/Kuisioner.php:46) /home/smsinaja/public_html/ikm/system/core/Common.php 570
